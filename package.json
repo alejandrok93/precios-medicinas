@@ -9,6 +9,7 @@
     "cheerio": "latest",
     "curl-request": "^1.1.1",
     "express": "latest",
+    "got": "^11.1.4",
     "node-libcurl": "^1.3.3",
     "request": "^2.88.0",
     "request-promise": "^4.2.5"
