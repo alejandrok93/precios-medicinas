@@ -5,7 +5,7 @@
   "main": "server.js",
   "author": "Scotch",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "cheerio": "latest",
     "curl-request": "^1.1.1",
     "express": "latest",
